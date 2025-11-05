@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>All About France</title>
+    <link href="style.css" rel="stylesheet">
+    </head>
+    <body>
+      <h1>About France</h1>
+      <p>France is <mark>a Western European country with a capital in Paris, known for its art, culture, and gastronomy</mark>. It is the largest country in the European Union and is a major global power, a key player in international affairs, and the world's number one tourist destination. France has a diverse landscape, a large economy, and is home to significant historical and cultural landmarks like the Eiffel Tower and the Louvre Museum.</p>
+      <a href="https://en.wikipedia.org/wiki/France">Learn More</a>
+      <h2>Capital</h2>
+      <p>The capital of France is <mark>Paris</mark>, which is also the country's most populous city. It is a major global center for art, fashion, culture, and gastronomy, and is home to iconic landmarks such as the Eiffel Tower and the Louvre Museum.</p>
+      <ul>
+        <li><strong>Key features</strong>: Known as the "City of Light," Paris is renowned for its rich history and vibrant cultural scene.</li>
+        <br>
+        <li><strong>Historical note</strong>: Paris first became the capital in 508 AD under King Clovis. After a temporary relocation during World War II, it has remained the capital to the present day.</li>
+        </ul>
+        <a href="https://en.wikipedia.org/wiki/France">Learn More</a>
+        <h2>Currency</h2>
+        <span>The euro</span>
+        <p><mark>The euro</mark> is the official currency of France, which is a member of the European Union. The Euro Area refers to a currency union among the European Union member states that have adopted the euro as their sole official currency.</p>
+        <a href="https://en.wikipedia.org/wiki/Euro">Learn More</a>
+        <h2>Official Language</h2>
+        <p>The official language of France is <mark>French</mark>. French has been the sole official language since a 1992 constitutional amendment, though it has been mandated for legal documents since 1539. While French is the official language, France also officially recognizes a variety of regional languages.</p>
+      </body>
+      </html>
